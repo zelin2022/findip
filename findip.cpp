@@ -3,7 +3,7 @@
 * Author: Zelin Liu
 * Date: 2019/05/22
 * Description: a quick one to find ip address of any hostname, can find IPV4 and IPV6
-* Instruction: compile with "gcc findip.cpp -o findip" then run using "./findip xxx" xxx is honstname such as "google.ca"
+* Instruction: compile with "g++ findip.cpp -o findip" then run using "./findip xxx" xxx is honstname such as "google.ca"
 */
 
 #include <stdio.h>
